@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://edsgerls.github.io/sitemap.xml
+Sitemap: https://edgarlopez-silva.github.io/sitemap.xml
